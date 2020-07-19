@@ -1,4 +1,4 @@
-# Spark_Twitter
+# Spark Streaming Twitter Data
 
 This repository holds a simple example of processing streaming data with spark. I have setup spark using VirtualBox on my local machine. 
 
